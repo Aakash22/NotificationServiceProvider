@@ -1,0 +1,21 @@
+# IntelliJ
+
+.idea/
+*.iml
+
+# Packaged Files
+
+*.jar
+*.war
+*.ear
+target/
+
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# Mac OS
+
+.DS_Store
